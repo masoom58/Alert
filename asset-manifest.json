@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alert-app/static/css/main.b3b51cd5.css",
+    "main.js": "/Alert-app/static/js/main.3047aeec.js",
+    "index.html": "/Alert-app/index.html",
+    "main.b3b51cd5.css.map": "/Alert-app/static/css/main.b3b51cd5.css.map",
+    "main.3047aeec.js.map": "/Alert-app/static/js/main.3047aeec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3b51cd5.css",
+    "static/js/main.3047aeec.js"
+  ]
+}
